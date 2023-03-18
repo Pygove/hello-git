@@ -1,1 +1,1 @@
-# hello-gitt
+# hello-git
